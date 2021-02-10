@@ -10,6 +10,7 @@ This web is recreated by the Group 1 of [HackYourFutureBelgium](https://hackyour
 - [Furkan](https://github.com/emelysalmeron)
 - [Joexy](https://github.com/Joexy1990)
 - [Zara](https://github.com/zaraana)
+- [Emely](https://github.com/emelysalmeron)
 - [Kazem](#)
 - [Navid R.](#)
 
