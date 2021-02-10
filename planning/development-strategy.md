@@ -50,7 +50,7 @@ This web is recreated by the Group 1 of [HackYourFutureBelgium](https://hackyour
 
 ### Create Section
 
-1. Fork repo [loruki-website](https://github.com/sabanyelkenci/loruki-website)
+1. Fork repo [loruki-website](https://github.com/kilicf/loruki-website)
 1. Create an issue in the repo, add the labels and project label
 1. Create a branch named ` bla bla`
 1. Create a index.html file
