@@ -25,7 +25,7 @@ How many hours does everyone have? and when are you generally available?
 | Furkan |  08-12 - / 16-  |  12:00 -  |  12:00 - | 12:00 -  |  08:00 -  | 12:00 -   | 08:00 -|
 | Emely  |  08-12 |  08-12 - / 17- |  08-12 - / 17- | 08 - 21 |  08:00 - | 08:00 -| 08:00 -|
 | Zara |    |    |   |    |    |   |
-| Selim   |  |  |    |  |  |  |
+| Selim  | 08 - 12 | 12 - | 12 -   | 08 - 21 | 12 - | - | 08 - 12 |
 | Zehra |    |    |   |    |    |   |
 | Joeaponte   |  |  |    |  |  |  |
 | Kazem |    |    |   |    |    |   |
