@@ -18,7 +18,7 @@ As a team come up with a plan for how to use each communication channel. What wi
 
 ## Availability
 
-How many hours does everyone have? and when are you generally available? [Slack](https://hackyourfuturebe.slack.com/archives/C01JFNNHPE0) - [Zoom]
+How many hours does everyone have? and when are you generally available? [Slack](https://hackyourfuturebe.slack.com/archives/C01JFNNHPE0) - (Zoom)
 
 | Name | Sunday   | Monday    | Tuesday   | Wednesday    | Thursday    |  Friday   | Saturday  |
 | :---:   | :-: | :-: | :---:   | :-: | :-: | :-: | :-: |
