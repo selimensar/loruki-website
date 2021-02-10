@@ -11,9 +11,9 @@ When and how often will you meet? what will you discuss at these meetings? ...
 
 As a team come up with a plan for how to use each communication channel. What will you discuss on each one? How often will you get in touch on each channel? Below is a starter list of different ways to communicate, go ahead and rewrite this list so it works for your team:
 
-- **Planning Documents**:
-- **Slack Messaging**:
-- **Video Calls**:
+- **Planning Documents**: 
+- **Slack Messaging**: daily
+- **Video Calls**: 
 - **Issues**:
 - **Pull Requests**:
 
