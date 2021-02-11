@@ -35,3 +35,33 @@ In software development and product management, a user story is an informal, nat
 | US01          |  As a user, I want to read the contents with visual shows rather than a simple site.          |       A website could have various CSS animations to grab users' attention.              |
 | US02          |     As a user, I want to register as a user on the site and I would like to see the transactions I have done on this website before in my account.       |        A website could have user registration and login sections.             |
 | US03          |       As a user, I want to hear from updates or discounts on the website.     |          The website could have had a mail newsletter to notify curious users. Therefore, the website could have a newsletter where users could leave their mail.           |
+=======
+## Loruki User Stories:
+
+1.Home Page
+
+| user story id | user story | acceptance criteria |
+| ------------- | ---------- | ------------------- |
+| US01          |            |                     |
+| US02          |            |                     |
+| US03          |            |                     |
+| US04          |            |                     |
+
+2.Feature Page
+
+| user story id | user story | acceptance criteria |
+| ------------- | ---------- | ------------------- |
+| US01          |            |                     |
+| US02          |            |                     |
+| US03          |            |                     |
+| US04          |            |                     |
+
+3.Doc Page
+
+| user story id | user story | acceptance criteria |
+| ------------- | ---------- | ------------------- |
+| US01          |            |                     |
+| US02          |            |                     |
+| US03          |            |                     |
+| US04          |            |                     |
+
