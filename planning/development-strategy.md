@@ -35,6 +35,8 @@ This web is recreated by the Group 1 of [HackYourFutureBelgium](https://hackyour
 
 ### Wireframe
 
+![wireframe](imeges/New%20Wireframe%201.png)
+
 ### Create Readme, development-strategy and create project in GitHub
 
 1. Create a README.md file
